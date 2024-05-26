@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "351751265947",
+    "firebase_url": "https://carrentaldatabase-17c25-default-rtdb.firebaseio.com",
+    "project_id": "carrentaldatabase-17c25",
+    "storage_bucket": "carrentaldatabase-17c25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351751265947:android:8f87f23690ef1bb54e703e",
+        "android_client_info": {
+          "package_name": "com.example.carrental_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_23sk2Eid2OYUD5TA0CiNfzHrh3N31dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
